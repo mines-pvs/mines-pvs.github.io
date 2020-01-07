@@ -1,2 +1,6 @@
-# mines-pvs.github.io
-CSCI-598 Program Verification &amp; Synthesis
+Syllabi
+=======
+
+| Session                                                      | Instructor                                  |
+|--------------------------------------------------------------|---------------------------------------------|
+| [Spring 2020](https://mines-pvs.github.io/s20-syllabus/)   | [Jedidiah McClurg](https://jrmcclurg.com) |
